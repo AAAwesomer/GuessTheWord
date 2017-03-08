@@ -1,8 +1,13 @@
 # GuessTheWord
 Simple word game that uses Net Scraping
-8 hours of development
-Demonstrates basic use of NLP and algorithms
+8 hours of development.
+
+Demonstrates basic use of NLP and algorithms.
+
+
+
 What it does:
+
 1. Introduces user to the game
 2. Creates random word using the RandomWords library
 3. Using Beautiful Soup 4, goes to the Dictionary.com url for that word and looks for sentences where the word is being used
